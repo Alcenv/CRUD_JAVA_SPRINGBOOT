@@ -11,20 +11,24 @@ Sigue estos pasos para configurar el proyecto en tu máquina:
 git clone https://github.com/tu-usuario/mi-proyecto.git
 ```
 
+
 - Navega al directorio del proyecto:
 ```shell 
 cd mi-proyecto
 ```
+
 
 - Instala las dependencias utilizando npm:
 ```shell 
 npm install
 ```
 
+
 - Instala React Router y Axios:
 ```shell 
 npm install react-router-dom@6 axios
 ```
+
 
 ## Ejecución 
 Para ejecutar el proyecto, utiliza el siguiente comando:
